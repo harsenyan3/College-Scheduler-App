@@ -1,3 +1,5 @@
+(Original repo is in Gatech GitHub account: https://github.gatech.edu/harsenyan3/College-Scheduler-App)
+
 **College Scheduler App!**
 
 We introduce to you the ultimate college companion, the College Scheduler app! Keeping the hectic and messy student schedule in mind, this app serves as your go-to solution to organizing your academic life. Whether you are a 5th year super-senior, or a newly admitted freshman, our app is made to help YOU simplify your college experience!
